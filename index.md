@@ -42,11 +42,13 @@ technology. These projects include,
 
 </figure>
 
+
+
 <figure class="image">  
 
 <div style="text-align: center">  
 
-<img src="pcb2.png" width="40%"><br>  
+<img src="solarpanel2.png" width="40%"><br>  
  
 
 </div>
@@ -57,7 +59,7 @@ technology. These projects include,
 
 <div style="text-align: center">  
 
-<img src="solarpanel2.png" width="40%"><br>  
+<img src="pcb2.png" width="40%"><br>  
  
 
 </div>
