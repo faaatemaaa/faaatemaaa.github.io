@@ -14,6 +14,7 @@ Fatema Ahmed Alsalhadi Alshehhi
 * A small robot that assists students and teachers in transferring books and supplements between school halls
 * A robot designed to detect and clean solar panels once a specific threshold of dustiness is reached
 * A drone equipped with a First Aid Kit and 360 cameras to aid in critical situations such as wars, fires, and for emergency responders
+
 ## Results
 1. Numbered Point 1
 1. Numbered Point 2
@@ -23,6 +24,5 @@ Fatema Ahmed Alsalhadi Alshehhi
 
 ## External Links
 
-[example link to idealab](https://idealab.asu.edu)
 
 
