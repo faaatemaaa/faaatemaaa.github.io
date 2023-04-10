@@ -24,13 +24,45 @@ technology. These projects include,
 
 <div style="text-align: center">  
 
-<img src="drone2.png" width="100%"><br>  
+<img src="drone2.png" width="40%"><br>  
  
 
 </div>
 
 </figure>
 
+<figure class="image">  
+
+<div style="text-align: center">  
+
+<img src="sloar2.png" width="40%"><br>  
+ 
+
+</div>
+
+</figure>
+
+<figure class="image">  
+
+<div style="text-align: center">  
+
+<img src="pcb2.png" width="40%"><br>  
+ 
+
+</div>
+
+</figure>
+
+<figure class="image">  
+
+<div style="text-align: center">  
+
+<img src="solarpanel2.png" width="40%"><br>  
+ 
+
+</div>
+
+</figure>
     
 
 
