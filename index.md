@@ -20,6 +20,17 @@ technology. These projects include,
 
 **4. Designing and building PCBs projects, I have solid experience in Hardware Engineering and Research.** 
 
+<figure class="image">  
+
+<div style="text-align: center">  
+
+<img src="drone2.png" width="100%"><br>  
+ 
+
+</div>
+
+</figure>
+
     
 
 
