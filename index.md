@@ -15,11 +15,6 @@ Fatema Ahmed Alsalhadi
 * A robot designed to detect and clean solar panels once a specific threshold of dustiness is reached
 * A drone equipped with a First Aid Kit and 360 cameras to aid in critical situations such as wars, fires, and for emergency responders.
 
-## Background
-
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
-
-[link to background](/background)
 
 ## Results
 
