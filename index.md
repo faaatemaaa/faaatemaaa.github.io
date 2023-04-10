@@ -9,14 +9,14 @@ undertaken several projects that have revolved around robotics and
 technology. These projects include
 
 1.  **A small robot that assists students and teachers in transferring
-    books and supplements between school halls,
+    books and supplements between school halls.**
 
 2.  **A robot designed to detect and clean solar panels once a specific
-    threshold of dustiness is reached,
+    threshold of dustiness is reached.**
 
 3.  **A drone equipped with a First Aid Kit and 360 cameras to aid in
     critical situations such as wars, fires, and for emergency
-    responders.
+    responders.**
 
 
 
