@@ -35,4 +35,3 @@ Fatema Ahmed Alsalhadi
 [example link to idealab](https://idealab.asu.edu)
 
 
-## References
