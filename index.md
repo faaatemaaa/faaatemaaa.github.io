@@ -1,4 +1,4 @@
-Greetings to all. My name is Fatema Ahmed Alsalhadi and I am currently a
+// Greetings to all. My name is Fatema Ahmed Alsalhadi and I am currently a
 student at Arizona State University, where I am pursuing a degree in
 Robotics Engineering. I have always possessed a strong passion for
 innovation, technology, and robotics. Furthermore, I got awarded the
