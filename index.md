@@ -18,7 +18,7 @@ technology. These projects include,
     critical situations such as wars, fires, and for emergency
     responders.**
 
-**4. Designing and building PCBs projects, I have solid experience in Hardware Engineering and Research. 
+**4. Designing and building PCBs projects, I have solid experience in Hardware Engineering and Research.** 
 
     
 
