@@ -3,8 +3,8 @@ student at Arizona State University, where I am pursuing a degree in
 Robotics Engineering. I have always possessed a strong passion for
 innovation, technology, and robotics. Furthermore, I got awarded the
 title of ambassador of innovation and ambassador of sustainability. In
-addition, I am proud to have been the first Emirati female to join the
-St. Andrews Summer program. Throughout my academic journey, I have
+addition, I am proud to be the first Emirati female to join the
+St. Andrews Summer school program. Throughout my academic journey, I have
 undertaken several projects that have revolved around robotics and
 technology. These projects include,
 
@@ -17,6 +17,10 @@ technology. These projects include,
 **3.  A drone equipped with a First Aid Kit and 360 cameras to aid in
     critical situations such as wars, fires, and for emergency
     responders.**
+
+**4. Designing and building PCBs projects, I have solid experience in Hardware Engineering and Research. 
+
+    
 
 
 
