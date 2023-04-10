@@ -6,7 +6,7 @@ title of ambassador of innovation and ambassador of sustainability. In
 addition, I am proud to be the first Emirati female to join the
 St. Andrews Summer school program. Throughout my academic journey, I pursued an Artificial Intelligence Diploma and I have
 undertaken several projects that have revolved around robotics and
-technology. These projects include,
+technology. These projects include:
 
 **1.  A small robot that assists students and teachers in transferring
     books and supplements between school halls.**
