@@ -1,20 +1,20 @@
 ---
-title: Home
+Fatema Ahmed Alsalhadi 
 ---
 
-# Home
+
 
 ## Introduction
 
-**Bold Text**
+** Greetings to all. My name is Fatema Ahmed Alsalhadi and I am currently a student at Arizona State University, where I am pursuing a degree in Robotics Engineering. I have always possessed a strong passion for innovation, technology, and robotics. Furthermore, I got awarded the title of ambassador of innovation and ambassador of sustainability. In addition, I am proud to have been the first Emirati female to join the St. Andrews Summer program. Throughout my academic journey, I have undertaken several projects that have revolved around robotics and technology. These projects include **
 _Italic Text_
-**_Bold and Italic Text_**
 
-## Research Question
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+## Projects Brief 
+
+* A small robot that assists students and teachers in transferring books and supplements between school halls
+* A robot designed to detect and clean solar panels once a specific threshold of dustiness is reached
+* A drone equipped with a First Aid Kit and 360 cameras to aid in critical situations such as wars, fires, and for emergency responders.
 
 ## Background
 
